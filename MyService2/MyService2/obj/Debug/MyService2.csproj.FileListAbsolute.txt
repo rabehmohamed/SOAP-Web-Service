@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\MyService2\MyService2\bin\MyService2.dll.config
+C:\Users\LENOVO\source\repos\MyService2\MyService2\bin\MyService2.dll
+C:\Users\LENOVO\source\repos\MyService2\MyService2\bin\MyService2.pdb
+C:\Users\LENOVO\source\repos\MyService2\MyService2\obj\Debug\MyService2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MyService2\MyService2\obj\Debug\MyService2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MyService2\MyService2\obj\Debug\MyService2.dll
+C:\Users\LENOVO\source\repos\MyService2\MyService2\obj\Debug\MyService2.pdb
